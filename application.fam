@@ -1,0 +1,11 @@
+App(
+    appid="dut_driver",
+    name="DUT Driver",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="dut_driver_app",
+    requires=["gui"],
+    stack_size=4 * 1024,
+    fap_category="GPIO",
+    fap_version="1.0",
+    fap_description="Drive GPIO pins and a servo from USB serial commands",
+)
