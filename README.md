@@ -3,6 +3,9 @@
 A Flipper Zero app that takes text commands over USB serial to drive a device under test:
 set GPIO pins high or low, read pin state, and move a hobby servo.
 
+> 🤖 **AI Disclosure:** Most of this repository's code and documentation were generated or assisted by artificial intelligence. All outputs have been human-reviewed, tested, and verified for accuracy and safety.
+
+
 ## Build and install
 
 ```sh
