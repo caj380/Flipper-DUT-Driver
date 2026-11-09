@@ -5,6 +5,9 @@ state, and move a hobby servo. You can control it from the Flipper's own screen 
 commands over USB serial. Pins can be given names (e.g. PC1 → "DC Power Relay"), and servo
 positions can be saved with a name.
 
+> 🤖 **AI Disclosure:** Most of this repository's code and documentation were generated or assisted by artificial intelligence. All outputs have been human-reviewed, tested, and verified for accuracy and safety.
+
+
 ## Build and install
 
 ```sh
